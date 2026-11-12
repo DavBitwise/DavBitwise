@@ -1,5 +1,8 @@
 <h1 align="center">Dawit</h1>
-<p align="center"><em>Frontend Developer in Progress</em></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Frontend+developer+in+progress;Building+with+HTML%2C+CSS+%26+JS;Always+shipping%2C+always+learning" />
+</p>
 
 ---
 
