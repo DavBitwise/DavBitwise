@@ -1,42 +1,28 @@
-<h1 align="center">🎮 Dawit | Aspiring Web Developer 🚀</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Dawit!;Web+Dev+in+the+making...;Leveling+up+my+code+skills!" />
-</p>
 
 ---
 
-### 🎯 About Me
+### Currently
 
-- 🧠 I’m currently learning **HTML, CSS, JavaScript**, and more!
-- ⚔️ Gaining XP in **web development** and **programming languages**
-- 🛠️ Building cool projects to level up my skills
-- 🔥 Always ready for a coding challenge
-
----
-
-### ⚙️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode" />
+- Grinding through **JavaScript fundamentals** — closures, async, the whole thing
+- Building small projects to get reps in
+- Next: Node.js + databases
 
 ---
 
-### 🎮 Game Plan
+### Stats
 
-- [x] Start learning web development  
-- [x] Build my first project  
-- [ ] Master backend skills  
-- [ ] Become a full-stack dev  
+<div align="center">
 
----
+![Dawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-### 📫 Let’s Connect
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-- Follow me right here on **GitHub**
-- More links coming soon...
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKxOhR3aQmH38Cc/giphy.gif" width="200"/>
-</p>
+<div align="center">
+
+*building in public — follow to watch the arc*
+
+</div>
