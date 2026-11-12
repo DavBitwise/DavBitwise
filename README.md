@@ -15,7 +15,7 @@
 
 ---
 
-I'm working toward full-stack development, starting with a solid frontend foundation before moving into the backend. I care about clean, maintainable code and interfaces that feel fast. Right now I'm deepening my JavaScript fundamentals and moving into React—Node and databases come next.
+I'm working toward full-stack development, starting with the frontend and moving into the backend once that's solid. I care about clean, maintainable code and interfaces that feel fast. Right now I'm getting deeper into JavaScript and learning React. Node and databases come after that.
 
 ---
 
