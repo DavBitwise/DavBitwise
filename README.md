@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=dawit&style=flat-square&color=58A6FF&label=profile+views" /></a>
   <a href="#"><img src="https://img.shields.io/badge/status-building-2ea043?style=flat-square" /></a>
   <a href="#"><img src="https://img.shields.io/badge/track-full--stack-58A6FF?style=flat-square" /></a>
 </p>
@@ -30,7 +29,7 @@ I'm working toward full-stack development, starting with the frontend and moving
 
 ---
 
-### GitHub
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dawit&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
@@ -60,26 +59,6 @@ I'm working toward full-stack development, starting with the frontend and moving
 - [ ] Learn Node.js, Express, and REST APIs
 - [ ] Work with databases (SQL + NoSQL)
 - [ ] Ship a full-stack project end to end
-
----
-
-### Selected Work
-
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| *(coming soon)* | — | First portfolio project in progress |
-
-> Pinned repos will live here as I ship them.
-
----
-
-### Contact
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 
 ---
 
